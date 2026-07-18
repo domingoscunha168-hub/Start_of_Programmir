@@ -1,0 +1,5 @@
+VISIBILIDADE
+Em Python:
+public +: + atrib1
+protected #: # _atrib2
+private -: __atrib3

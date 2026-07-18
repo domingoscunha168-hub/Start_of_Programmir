@@ -1,0 +1,1 @@
+print(str.__doc__) #Documentação de Strings
