@@ -1,2 +1,2 @@
-"""Desafios e exercícios executáveis."""
+"""Exemplos de herança."""
 
