@@ -1,0 +1,6 @@
+from projeto_publico import main
+
+
+if __name__ == "__main__":
+    main()
+

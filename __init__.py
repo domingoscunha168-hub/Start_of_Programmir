@@ -1,2 +1,2 @@
-"""Exemplos de abstração."""
+"""Desafios e exercícios executáveis."""
 

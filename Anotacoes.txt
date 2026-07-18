@@ -1,0 +1,58 @@
+1- Em que decada aconteceu a crise do software no mercado?
+R: O ano em que a crise do software inicializou foi 1960.
+2- Quais das carateristicas a sequir identicas as primeiras linguagens linearas?
+R: As carateristicas que identificam as primeiras linguagens linearas sao:
+Maior modalidade;
+Estruturas de controlo.
+3- Quem foi criador da Smalltalk, uma das primeiras linguagens 00/
+R: Alan Kay.
+4- A linguagem "Simula" foi superconjunto de que outra inguagem?
+R: A linguagem  Simula foi super-conjunto da linguagem Smaalltalk.
+5- Na sigla OOAD, as ultimas duas letras significam o que?
+R: Pois significam Analise e Design.
+6- Criei um sistema para agencias. ao criar outro sistema para a bibioteca, litermente na porta tudo estara feito. Pois tenho registros iguais no dois.
+R: Uso de Reutilizacao.
+7- Se precisar de adicionar uma nova funcionalidade ao sistema, consigo fazer isso com grande facilidade.
+R: Aqui incliu um jeito oportuno.
+8- Posso desenvolver varias funcoes que dependem uma da outra ao mesmo tempo se o planejamento for seguido.
+R: Manutenivel.
+9- O odigo fica muito simples de ler e de compreender, ja que nao preciso saberos detalhes de funcionamento ao programar.
+R: Extenso.
+10- Posso alterar como uma funcionalidade trabalha e tudo continua funcionando como deve ser.
+R: Confiavel.
+11- Diga um objetos abstrato?
+R: Notificacao. 
+12- Na teoria do POO, o termo usado para o ato de fazer um objeto existir, a partir de um modelo e denominado de?
+R: Instanciar.
+13- Todo objeto tem uma lista de atividades que podem ser feitas com ele ou que pode desempenhar sozinho, qual e?
+R: Metodos. 
+14- Ao conjunto de todos os valores de atributos de um objeto em um determinado momento, que nome damos?
+R: Estado.
+15- Estruturas de objeto abstrato e concretos com lista de atributos e metodos.
+
+Pessoa
+Atributos;
+— nome: String
+— idade: int
+— telefone: String
+Métodos;
+cadastrar()
+abstrato
+validar()
+abstrato
+toString()
+getIdade()
+____________________________________________________
+
+Funcionario
+extends Pessoa
+Atributos próprios;
++ cargo: String
++ salario: double
++ departamento: String
+Métodos;
+cadastrar()
+✓ impl
+validar()
+✓ impl
+calcularSalario()

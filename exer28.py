@@ -1,0 +1,1 @@
+class termostato_inteligente:
