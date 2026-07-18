@@ -65,7 +65,6 @@ Information/
    │  ├─ Documentar.py
    │  └─ Anotacoes de seguranca.txt
    └─ Heranca/
-      ├─ __init__.py
       ├─ classprincil.py
       └─ reutilizar.py
 ```
@@ -74,8 +73,4 @@ O repositório não segue uma arquitetura única de aplicação. Funciona como u
 
 ## Objetivo
 
-Manter um espaço organizado para prática contínua, revisão de conceitos e evolução gradual dos projetos e exercícios.
-
-## Nota
-
-Esta é uma versão atualizada criada sem alterar o `README.md` original.
+Manter um espaço organizado para prática contínua, revisão de conceitos e evolução gradual dos exercícios.
